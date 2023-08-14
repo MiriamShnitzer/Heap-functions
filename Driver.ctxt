@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Driver
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=heap
+comment2.target=void\ build(Heap)
+comment2.text=\r\n\ This\ function\ gets\ an\ empty\ heap\ and\ build\ it\ by\ first\ reading\ values\ from\ the\ user\ chosen\ file\ and\ putting\ them\ in\ the\ heap\ array\r\n\ and\ then\ call\ to\ the\ build_heap\ function\ on\ the\ heap\ in\ order\ to\ order\ it\ to\ a\ legal\ heap\r\n\ @param\ heap\ a\ max-min\ heap\r\n
+comment3.params=heap
+comment3.target=void\ menu(Heap)
+comment3.text=\r\n\ This\ function\ gets\ a\ heap\ and\ call\ to\ the\ variety\ of\ function\ on\ a\ max-min\ heap\ of\ the\ Heap\ class,\ by\ the\ user\ choices\r\n\ @param\ heap\ the\ max-min\ heap\ builded\ in\ main\ function\ \ \ \ \r\n
+numComments=4
